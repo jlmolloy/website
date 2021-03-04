@@ -90,7 +90,7 @@ params:
   pagNotFound:
     # option to specify the main picture of the sidebar
     # the starting folder is configure in "assetDir" of this file
-    image: "/images/avataaars_404.png"
+    image: "/images/tempavatar.svg"
     # option to specify the title of the 404 page
     title: 404 Page Not Found :(
     # option to specify the subtitle of the 404 page
@@ -135,12 +135,12 @@ params:
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
     github:
-      link: github.com/jlmolloy
+      link: jlmolloy
       title: Github
     # option to specify your twitter username in the footer; 
     # **uncomment** the below lines to show in footer
     twitter:
-      link: twitter.com/AJoeMolloy
+      link: AJoeMolloy
       title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
@@ -148,7 +148,7 @@ params:
     #    link: username
     #    title: Instagram
     # option to specify the copyright in the footer
-    copyright: Joe Molloy - 2020
+    copyright: Joe Molloy - 2021
 
 ###################################################################
 ################## multilanguage support options ##################
