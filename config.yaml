@@ -1,6 +1,6 @@
 baseURL: https://cocky-babbage-300c75.netlify.app
 languageCode: en-us
-title: JLMolloy
+title: J.Molloy
 theme: "hugo-refresh"
 # theme: ../..
 
@@ -108,11 +108,12 @@ params:
     # option to specify the title in the homepage
     title: Hi, I'm Joe!
     # option to specify the subtitle in the homepage
-    subtitle: Welcome to my personal website and data science blog
+    subtitle: Welcome to my personal website and data science blog. 
+      This site is currently under construction, so check back later!
     # option to specify image in the homepage
     image: "/images/tempavatar.svg" # worker.svg 
     # option to specify the width of the image in the homepage
-    imageWidth: 500px
+    imageWidth: 200px
 
   # footer options
   footer:
