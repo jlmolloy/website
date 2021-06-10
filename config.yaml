@@ -1,6 +1,6 @@
-baseURL: https://cocky-babbage-300c75.netlify.app/
+baseURL: https://www.jlmolloy.com
 languageCode: en-us
-title: J.Molloy
+title: Joe Molloy
 theme: "hugo-refresh"
 # theme: ../..
 
@@ -111,9 +111,9 @@ params:
     subtitle: Welcome to my personal website and data science blog. 
       This site is currently under construction, so check back later!
     # option to specify image in the homepage
-    image: "/images/tempavatar.svg" # worker.svg 
+    image: "/images/spiral.png" # worker.svg 
     # option to specify the width of the image in the homepage
-    imageWidth: 200px
+    imageWidth: 300px
 
   # footer options
   footer:
@@ -126,7 +126,7 @@ params:
       title: Email
     # option to specify your linkedin profile in the footer
     linkedin:
-      link: your_linkedin_profile
+      link: in/jlmolloy
       title: LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
